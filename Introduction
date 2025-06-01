@@ -1,4 +1,4 @@
-This dataset consists of 1,875 dialogues and a total of 37,268 data points. 
+This WISE dataset consists of 1,875 dialogues and a total of 37,268 data points. 
 
 The dataset contains five key columns:
 Dialogue_ID: A unique identifier for each dialogue.
@@ -8,6 +8,19 @@ Content: The text of the utterance, representing what the user or agent says.
 Coding: A code that classifies the purpose or function of each utterance.
 
 The coding framework for this dataset comes from the work of Shiting Fu and Tingting Jiang (currently under review at JASIST)
-
 The original dialogue data was collected from the study by Ren et al. (2021), cited as follows:
 Ren, P., Liu, Z., Song, X., Tian, H., Chen, Z., Ren, Z., & de Rijke, M. (2021). Wizard of search engine: Access to information through conversations with search engines. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 533-543).
+
+
+The ConvSearch dataset consists of 1,113 dialogues and a total of 7,760 data points.
+
+The dataset contains four key columns:
+Dialogue_ID: A unique identifier for each dialogue.
+Initiator: The role of the speaker, indicating whether they are the user or the agent.
+Content: The text of the utterance, representing what the user or agent says.
+Coding: A code that classifies the purpose or function of each utterance.
+
+The coding framework for this dataset is based on the methodology proposed by Shiting Fu and Tingting Jiang (currently under review at JASIST).
+The original dialogue data was collected from the study by Chu et al. (2022), cited as follows:
+Chu, Z., Wang, Z., Liu, Y., Huang, Y., Zhang, M., & Ma, S. (2022). ConvSearch: A open-domain conversational search behavior dataset. arXiv preprint arXiv:2204.02659.
+
