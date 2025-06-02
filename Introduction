@@ -1,4 +1,4 @@
-This WISE dataset consists of 1,875 dialogues and a total of 37,268 data points. 
+This WISE_annotated dataset consists of 1,875 dialogues and a total of 37,268 data points. 
 
 The dataset contains five key columns:
 Dialogue_ID: A unique identifier for each dialogue.
@@ -12,7 +12,7 @@ The original dialogue data was collected from the study by Ren et al. (2021), ci
 Ren, P., Liu, Z., Song, X., Tian, H., Chen, Z., Ren, Z., & de Rijke, M. (2021). Wizard of search engine: Access to information through conversations with search engines. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval (pp. 533-543).
 
 
-The ConvSearch dataset consists of 1,113 dialogues and a total of 7,760 data points.
+The ConvSearch_annotated dataset consists of 1,113 dialogues and a total of 7,760 data points.
 
 The dataset contains four key columns:
 Dialogue_ID: A unique identifier for each dialogue.
